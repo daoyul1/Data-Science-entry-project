@@ -1,4 +1,4 @@
-# Math10_FinalProject
+# Data Science entry project
 
 
 1.Implement the codes of logistics regression for classification problems by using Numpy (A library for Python).  
